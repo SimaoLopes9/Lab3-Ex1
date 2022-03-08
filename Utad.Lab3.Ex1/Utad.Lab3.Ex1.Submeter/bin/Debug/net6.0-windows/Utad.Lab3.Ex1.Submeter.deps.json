@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Utad.Lab3.Ex1.Submeter/1.0.0": {
+        "runtime": {
+          "Utad.Lab3.Ex1.Submeter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Utad.Lab3.Ex1.Submeter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
